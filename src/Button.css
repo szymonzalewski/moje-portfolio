@@ -1,0 +1,13 @@
+.button-message {
+  margin-top: 20px;
+
+  border-radius: 5px;
+  border: none;
+  width: 200px;
+  height: 25px;
+}
+.button-message:hover {
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+  width: 210px;
+  height: 27px;
+}

@@ -1,0 +1,23 @@
+.footer {
+  display: flex;
+  background-color: #333;
+  color: white;
+  box-shadow: 0 -6px 10px rgba(0, 0, 0, 0.4);
+  justify-content: space-between;
+}
+
+.footer-ul {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.footer-section {
+  margin-left: 20px;
+  margin-right: 20px;
+  text-decoration: none;
+  color: inherit;
+}
+.footer-section h4 {
+  margin-left: 35px;
+}
